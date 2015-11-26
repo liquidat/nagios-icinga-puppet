@@ -4,7 +4,7 @@
 # Extracts the age from last_run_summary.yaml and also verifies
 # the syntax of the yaml file.
 #
-# Copyright 2013 Roland Wolters, credativ GmbH
+# Copyright 2013 Roland Wolters
 #
 # Version 20130905
 #
